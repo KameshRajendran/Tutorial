@@ -1,6 +1,6 @@
 {
     "name": "first_sample",
-    "version": "1.0.5",
+    "version": "1.0.6",
     "description": "Npm package for customer",
     "repository": {
         "type": "git",
@@ -14,7 +14,11 @@
         "bin/",
         "bin/**/**",
         "jsonfiles",
-        "public"
+        "public",
+        "command.txt",
+        "joePhantom.js",
+        "server.js",
+        "Installation Steps.docx"
     ],
     "author": "Kamesh"
 }
