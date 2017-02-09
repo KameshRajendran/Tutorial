@@ -1,9 +1,20 @@
 {
-  "name": "myapp",
-  "version": "0.0.1",
-  "description": "my first socket.io app",
-  "dependencies": {
-    "express": "^4.10.2",
-    "socket.io": "^1.2.0"
-  }
+    "name": "first_sample",
+    "version": "1.0.5",
+    "description": "Npm package for customer",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/synckamesh/Tutorial.git"
+    },
+    "keywords": [
+        "sync_kamesh",
+        "kamesh"
+    ],
+    "files": [
+        "bin/",
+        "bin/**/**",
+        "jsonfiles",
+        "public"
+    ],
+    "author": "Kamesh"
 }
