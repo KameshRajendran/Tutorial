@@ -2,7 +2,6 @@
   "name": "first_sample",
   "version": "1.0.0",
   "description": "Npm package for customer.",
-  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -16,6 +15,7 @@
   ],
   "files": [
         "bin/",
+        "bin/**/**",
         "Installation Steps.docx"
     ],
   "author": "Kamesh",
