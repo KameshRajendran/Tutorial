@@ -15,7 +15,8 @@
     "kamesh"
   ],
   "files": [
-        "bin/"
+        "bin/",
+        "Installation Steps.docx"
     ],
   "author": "Kamesh",
   "license": ""
