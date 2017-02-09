@@ -1,22 +1,22 @@
 {
   "name": "first_sample",
   "version": "1.0.0",
-  "description": "testing sample",
+  "description": "Npm package for customer.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/synckamesh/Tutorial.git"
+    "url": "git+https://github.com/synckamesh/Tutorial.git"
   },
   "keywords": [
     "sync_kamesh",
     "kamesh"
   ],
-   "files": [
+  "files": [
         "bin/"
     ],
   "author": "Kamesh",
-  "license": "MIT"
+  "license": ""
 }
