@@ -1,0 +1,8 @@
+phantomjs joePhantom.js C:\Users\kameshwaranr\Desktop\nodeJS\nodeExpress\myapp\jsonfiles\diagram2.json C:/Users/kameshwaranr/Desktop/nodeJS/nodeExpress/myapp/outputfiles 
+
+node server.js C:\Users\kameshwaranr\Desktop\nodeJS\nodeExpress\myapp\jsonfiles\diagram2.json C:/Users/kameshwaranr/Desktop/nodeJS/nodeExpress/myapp/outputfiles 
+
+C:\bin\phantomjs joePhantom.js C:\Users\kameshwaranr\Desktop\nodeJS\nodeExpress\myapp\jsonfiles\diagram2.json C:/Users/kameshwaranr/Desktop/nodeJS/nodeExpress/myapp/outputfiles 
+
+
+C:\bin\phantomjs\phantomjs.exe C:\Users\kameshwaranr\Desktop\nodeJS\nodeExpress\myapp\joePhantom.js C:\Users\kameshwaranr\Desktop\nodeJS\nodeExpress\myapp\jsonfiles\diagram2.json C:/Users/kameshwaranr/Desktop/nodeJS/nodeExpress/myapp/outputfiles 
