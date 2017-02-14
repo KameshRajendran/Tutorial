@@ -5,9 +5,9 @@ var args = require('system').args;
 var readfile = args[1];
 var writefileloc = args[2];
 
-page.open('file:///' + workingDir + '/public/swimlane.html', function (status) {
+page.open('file:///' + workingDir + '/public/sample.html', function (status) {
     if (status !== 'success') {
-		console.log('file:///' + workingDir + '/public/swimlane.html');
+		console.log('file:///' + workingDir + '/public/sample.html');
         console.log('Unable to access network');
     } else {
         readfile = args[1];
