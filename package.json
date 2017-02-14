@@ -1,14 +1,15 @@
 {
-    "name": "first_sample",
-    "version": "1.0.7",
+    "name": "exportassvg",
+    "version": "1.0.8",
     "description": "Npm package for customer",
     "repository": {
         "type": "git",
         "url": "https://github.com/synckamesh/Tutorial.git"
     },
     "keywords": [
-        "sync_kamesh",
-        "kamesh"
+        "export as svg",
+        "diagram export",
+        "sync diagram"
     ],
     "files": [
         "bin/",
@@ -16,7 +17,7 @@
         "jsonfiles",
         "public",
         "command.txt",
-        "joePhantom.js",
+        "phantom.js",
         "server.js",
         "Installation Steps.docx"
     ],
